@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: restaurant-service
+
+    cloud:
+      config:
+        uri: ${configServerUrl} # 3100번
