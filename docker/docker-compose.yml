@@ -14,7 +14,7 @@ services:
 
 
 
-networks:
-  koreait-net:
-    external:
-      name: koreait-net
+#networks:
+#  koreait-net:
+#    external:
+#      name: koreait-net
